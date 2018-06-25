@@ -6,6 +6,7 @@
 ## [Mapsui 2.0](Mapsui-2.0.md)
 # How Things Work
 ## [Mapsui Components](Mapsui-Components.md)
+## [Test](test)
 ## [Renderers](Renderers.md)
 ## [Asynchronous Data Fetching](Async-Fetching.md)
 ## [Skia Scale](skia-scale.md)
